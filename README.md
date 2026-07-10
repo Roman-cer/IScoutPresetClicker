@@ -1,6 +1,11 @@
-NOW DEPRECATED.
+# ⚠️ This repository is deprecated
 
+This project is no longer maintained.
+
+**Please use the new repository instead:**
 Please Use https://github.com/Roman-cer/IScoutPresetClick instead.
+
+This repository is retained for historical purposes only.
 
 
 
