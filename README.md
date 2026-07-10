@@ -1,3 +1,9 @@
+NOW DEPRECATED.
+
+Please Use https://github.com/Roman-cer/IScoutPresetClick instead.
+
+
+
 # IScoutPresetClicker
 
 Chrome extension to auto change the preset used in iscout every x seconds.
